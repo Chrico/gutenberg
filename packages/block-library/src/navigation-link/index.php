@@ -180,7 +180,7 @@ function render_block_core_navigation_link( $attributes, $content, $block ) {
 		/**
 		 * Filter allowed post_status for navigation link block to render.
 		 *
-		 * @since 6.7.0
+		 * @since 6.8.0
 		 *
 		 * @param array $post_status
 		 * @param array $attributes
